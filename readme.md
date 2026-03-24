@@ -35,6 +35,9 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
 4. **Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models**  
    *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026*
 
+5. **Assuring Trustworthiness in Scalable Federated Learning for Scientific AI Systems**  
+   *SPIE Conference on Assurance and Security for AI-enabled Systems 2026*
+
 ## Published
 
 1. **Engineering Privacy at the Edge: A Practical Guide to Differential Privacy in System Architectures**  
