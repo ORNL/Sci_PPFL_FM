@@ -1,10 +1,6 @@
 # Privacy-Preserving Federated Learning for Science: Building Sustainable and Trustworthy Foundation Models
 
-This repository is part of a U.S. Department of Energy (DOE) Advanced Scientific Computing Research (ASCR) project focused on developing privacy-preserving federated learning approaches for scientific foundation models. The project aims to advance secure, trustworthy, and sustainable machine learning methodologies for large-scale scientific applications.
-
-**Principal Investigators:**
-- Olivera Kotevska (ORNL PI)
-- Kibaek Kim (ANL Lead)
+This repository is part of a U.S. Department of Energy (DOE) Advanced Scientific Computing Research (ASCR) project focused on developing privacy-preserving federated learning approaches for scientific foundation models. The project aims to advance secure, trustworthy, and sustainable machine learning methodologies for large-scale scientific applications. Principal investigator for this part of the work is Olivera Kotevska, PhD, there are other PIs but that work is not listed here.
 
 **Project Duration:** 2024-2027
 
