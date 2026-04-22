@@ -1,6 +1,8 @@
 # Privacy-Preserving Federated Learning for Science: Building Sustainable and Trustworthy Foundation Models
 
-This repository is part of a U.S. Department of Energy (DOE) Advanced Scientific Computing Research (ASCR) project focused on developing privacy-preserving federated learning approaches for scientific foundation models. The project aims to advance secure, trustworthy, and sustainable machine learning methodologies for large-scale scientific applications. Principal investigator for this part of the work is Olivera Kotevska, PhD, there are other PIs but that work is not listed here.
+This repository is part of a U.S. Department of Energy (DOE) Advanced Scientific Computing Research (ASCR) project focused on developing privacy-preserving federated learning approaches for scientific foundation models. The project aims to advance secure, trustworthy, and sustainable machine learning methodologies for large-scale scientific applications. 
+
+ORNL Principal Investigator is Olivera Kotevska, PhD.
 
 **Project Duration:** 2024-2027
 
@@ -16,22 +18,37 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
 
 # Publications
 
-## Accepted
+## Under review
 
-1. **Scalable Federated Learning for Scientific Foundation Models on Leadership-Class Systems**  
+1. **Automated Membership Inference Attacks (MIA): Discovering MIA Signal Computations using Large Language Model (LLM) Agents**
+   [Link](https://arxiv.org/pdf/2603.19375)
+
+2. **SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits**
+   [Link](https://arxiv.org/pdf/2604.01473)
+
+## Accepted
+1. XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts
+   *The 64th Annual Meeting of the Association for Computational Linguistics*
+   [Link](https://arxiv.org/pdf/2604.05242)
+
+3. **Scalable Federated Learning for Scientific Foundation Models on Leadership-Class Systems**  
    *The 6th Workshop on Machine Learning and Systems (EuroMLSys)co-located with EuroSys '26*
 
-2. **Traceable Black-box Watermarks for Federated Learning**  
+4. **Traceable Black-box Watermarks for Federated Learning**  
    *The Fourteenth International Conference on Learning Representations (ICLR) 2026*  
-   [Code](https://github.com/JiiahaoXU/TraMark)
+   [Link](https://arxiv.org/pdf/2505.13651) [Code](https://github.com/JiiahaoXU/TraMark)
 
-3. **Energy-Efficiency Metrics for Privacy-Preserving Federated Learning with SmartNIC Server Acceleration**  
+5. **Energy-Efficiency Metrics for Privacy-Preserving Federated Learning with SmartNIC Server Acceleration**  
    *The Sixteenth International Workshop on Accelerators and Hybrid Emerging Systems co-located with 40th IEEE International Parallel and Distributed Processing Symposium*
 
-4. **Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models**  
+6. **Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models**  
    *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026*
+   [Code](https://github.com/VishalPramanik/CSE)
 
-5. **Assuring Trustworthiness in Scalable Federated Learning for Scientific AI Systems**  
+7. **Assuring Trustworthiness in Scalable Federated Learning for Scientific AI Systems**  
+   *SPIE Conference on Assurance and Security for AI-enabled Systems 2026*
+
+8. **Entropy-weighted Multi-layer Attention for Token-level Attribution in Autoregressive Language Models**  
    *SPIE Conference on Assurance and Security for AI-enabled Systems 2026*
 
 ## Published
