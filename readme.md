@@ -29,14 +29,14 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
 ## Accepted
 1. XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts
    *The 64th Annual Meeting of the Association for Computational Linguistics*
-   [Link](https://arxiv.org/pdf/2604.05242)
+   [Link](https://arxiv.org/pdf/2604.05242) | [Code](https://github.com/JiiahaoXU/XMark)
 
 3. **Scalable Federated Learning for Scientific Foundation Models on Leadership-Class Systems**  
-   *The 6th Workshop on Machine Learning and Systems (EuroMLSys)co-located with EuroSys '26*
+   *The 6th Workshop on Machine Learning and Systems (EuroMLSys) co-located with EuroSys '26*
 
 4. **Traceable Black-box Watermarks for Federated Learning**  
    *The Fourteenth International Conference on Learning Representations (ICLR) 2026*  
-   [Link](https://arxiv.org/pdf/2505.13651) [Code](https://github.com/JiiahaoXU/TraMark)
+   [Link](https://arxiv.org/pdf/2505.13651) | [Code](https://github.com/JiiahaoXU/TraMark)
 
 5. **Energy-Efficiency Metrics for Privacy-Preserving Federated Learning with SmartNIC Server Acceleration**  
    *The Sixteenth International Workshop on Accelerators and Hybrid Emerging Systems co-located with 40th IEEE International Parallel and Distributed Processing Symposium*
