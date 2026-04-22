@@ -2,7 +2,7 @@
 
 This repository is part of a U.S. Department of Energy (DOE) Advanced Scientific Computing Research (ASCR) project focused on developing privacy-preserving federated learning approaches for scientific foundation models. The project aims to advance secure, trustworthy, and sustainable machine learning methodologies for large-scale scientific applications. 
 
-ORNL Principal Investigator is Olivera Kotevska, PhD.
+ORNL Principal Investigator: Olivera Kotevska, PhD.
 
 **Project Duration:** 2024-2027
 
