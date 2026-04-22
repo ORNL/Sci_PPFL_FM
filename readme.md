@@ -20,10 +20,10 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
 
 ## Under review
 
-1. **Automated Membership Inference Attacks (MIA): Discovering MIA Signal Computations using Large Language Model (LLM) Agents**
+1. **Automated Membership Inference Attacks (MIA): Discovering MIA Signal Computations using Large Language Model (LLM) Agents** <br>
    [Link](https://arxiv.org/pdf/2603.19375)
 
-2. **SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits**
+2. **SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits** <br>
    [Link](https://arxiv.org/pdf/2604.01473)
 
 ## Accepted
@@ -42,7 +42,7 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
    *The Sixteenth International Workshop on Accelerators and Hybrid Emerging Systems co-located with 40th IEEE International Parallel and Distributed Processing Symposium*
 
 6. **Selective Amnesia using Contrastive Subnet Erasure for Class Level Unlearning in Vision Models**  
-   *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026*
+   *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026* <br>
    [Code](https://github.com/VishalPramanik/CSE)
 
 7. **Assuring Trustworthiness in Scalable Federated Learning for Scientific AI Systems**  
@@ -54,29 +54,29 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
 ## Published
 
 1. **Engineering Privacy at the Edge: A Practical Guide to Differential Privacy in System Architectures**  
-   *The 43rd IEEE International Conference on Computer Design (ICCD 2025)*  
+   *The 43rd IEEE International Conference on Computer Design (ICCD 2025)*  <br>
    [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11311065)
 
 2. **Privacy-Preserving Federated Learning for Science: Challenges and Research Directions**  
-   *The 13th IEEE International Conference on Big Data (IEEE BigData 2025)*  
+   *The 13th IEEE International Conference on Big Data (IEEE BigData 2025)*  <br>
    [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10825853)
 
 3. **Balancing Trade-offs: Adaptive Differential Privacy in Interpretable Machine Learning Models**  
-   *22nd Annual International Conference on Privacy, Security, and Trust (PST2025)*  
+   *22nd Annual International Conference on Privacy, Security, and Trust (PST2025)*  <br>
    [Link](https://ieeexplore.ieee.org/abstract/document/11268818)
 
 4. **Optimal Client Sampling in Federated Learning with Client-level Heterogeneous Differential Privacy**  
-   *IEEE Internet of Things Journal*  
+   *IEEE Internet of Things Journal*  <br>
    [Link](https://ieeexplore.ieee.org/abstract/document/11373392) | [Code](https://github.com/JiiahaoXU/GDPFed)
 
 5. **MIC-DP: A Scalable Correlation-Aware Differential Privacy Framework for High-Dimensional Data**  
-   *IEEE Transactions on Privacy Journal*  
+   *IEEE Transactions on Privacy Journal*  <br>
    [Link](https://ieeexplore.ieee.org/abstract/document/11218270)
 
 6. **Privacy Preservation from High-Performance Computing to Autonomous Science [Industrial and Governmental Activities]**  
-   *IEEE Computational Intelligence Magazine*  
+   *IEEE Computational Intelligence Magazine*  <br>
    [Link](https://ieeexplore.ieee.org/abstract/document/11079249)
 
 7. **OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC**  
-   *2025 International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25), ExHedtAI: The Workshop on Extreme Heterogeneity and AI Convergence in HPC*
+   *2025 International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25), ExHedtAI: The Workshop on Extreme Heterogeneity and AI Convergence in HPC* <br>
    [Link](https://dl.acm.org/doi/pdf/10.1145/3731599.3767397)
