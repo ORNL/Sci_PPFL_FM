@@ -27,7 +27,7 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
    [Link](https://arxiv.org/pdf/2604.01473)
 
 ## Accepted
-1. XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts
+1. **XMark: Reliable Multi-Bit Watermarking for LLM-Generated Texts**
    *The 64th Annual Meeting of the Association for Computational Linguistics*
    [Link](https://arxiv.org/pdf/2604.05242) | [Code](https://github.com/JiiahaoXU/XMark)
 
