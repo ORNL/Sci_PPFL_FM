@@ -79,3 +79,4 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
 
 7. **OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC**  
    *2025 International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25), ExHedtAI: The Workshop on Extreme Heterogeneity and AI Convergence in HPC*
+   [Link](https://dl.acm.org/doi/pdf/10.1145/3731599.3767397)
