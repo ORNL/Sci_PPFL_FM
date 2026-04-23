@@ -71,7 +71,7 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
 
 5. **MIC-DP: A Scalable Correlation-Aware Differential Privacy Framework for High-Dimensional Data**  
    *IEEE Transactions on Privacy Journal*  <br>
-   [Link](https://ieeexplore.ieee.org/abstract/document/11218270)
+   [Link](https://ieeexplore.ieee.org/abstract/document/11218270) | [Code](https://github.com/aeris-lab/mic-dp)
 
 6. **Privacy Preservation from High-Performance Computing to Autonomous Science [Industrial and Governmental Activities]**  
    *IEEE Computational Intelligence Magazine*  <br>
