@@ -55,7 +55,7 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
 
 1. **Engineering Privacy at the Edge: A Practical Guide to Differential Privacy in System Architectures**  
    *The 43rd IEEE International Conference on Computer Design (ICCD 2025)*  <br>
-   [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11311065)
+   [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11311065) | [Code](https://github.com/ORNL/PETINA)
 
 2. **Privacy-Preserving Federated Learning for Science: Challenges and Research Directions**  
    *The 13th IEEE International Conference on Big Data (IEEE BigData 2025)*  <br>
