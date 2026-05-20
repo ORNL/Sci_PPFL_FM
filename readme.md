@@ -51,6 +51,9 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
 8. **Entropy-weighted Multi-layer Attention for Token-level Attribution in Autoregressive Language Models**  
    *SPIE Conference on Assurance and Security for AI-enabled Systems 2026*
 
+9. **IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning.**
+   *40th Annual IFIP WG 11.3 Conference on Data and Applications Security and Privacy (DBSec 2026)*
+
 ## Published
 
 1. **Engineering Privacy at the Edge: A Practical Guide to Differential Privacy in System Architectures**  
