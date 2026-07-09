@@ -8,6 +8,16 @@ ORNL Principal Investigator: Olivera Kotevska, PhD.
 
 ---
 
+# Focus Areas
+
+The project sits at the intersection of **federated learning**, **foundational models**, and **privacy preservation**, with all three grounded in **HPC systems**.
+
+<p align="center">
+  <img src="ProjectAreas_Map.png" alt="Venn diagram of the project focus areas: Federated Learning, Foundational Models, and Privacy Preservation, supported by HPC Systems" width="600">
+</p>
+
+---
+
 # Awards
 
 **PRESTO: Privacy Recommendation and Security Optimization** - R&D 100 Award Winner 2025  
