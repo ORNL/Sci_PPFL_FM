@@ -55,7 +55,7 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
    *The IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2026* <br>
    [Code](https://github.com/VishalPramanik/CSE)
 
-7. **DP-TwoLevel: Entropy-weighted multi-layer attention for token-level attribution in autoregressive language models**  
+7. **DP-TwoLevel: Two-Stage Gradient Subspace Learning for Differentially Private Federated Learning**  
    *SPIE Conference on Assurance and Security for AI-enabled Systems 2026*
 
 8. **Entropy-weighted Multi-layer Attention for Token-level Attribution in Autoregressive Language Models**  
