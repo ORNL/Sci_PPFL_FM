@@ -26,6 +26,16 @@ PRESTO is an innovative framework designed to provide privacy recommendations an
 
 ---
 
+# Community
+
+We are building a community around trustworthy, privacy-preserving federated learning for science, spanning secure model aggregation, data confidentiality, system scalability, and integration with research infrastructure.
+
+**Trustworthy Privacy-Preserved Federated Learning for Science** — a Birds-of-a-Feather session at the Trillion Parameter Consortium meeting (TPC26), held June 2, 2026 in Baltimore, Maryland, and organized with Argonne National Laboratory. The conversation continues beyond the session; researchers and practitioners working on federated learning across institutional boundaries are welcome to join.
+
+[Visit the community site](https://ornl.github.io/RealWorld_FL/)
+
+---
+
 # Publications
 
 ## Under review
