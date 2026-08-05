@@ -50,6 +50,9 @@ We are building a community around trustworthy, privacy-preserving federated lea
 2. **SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits** <br>
    [Link](https://arxiv.org/pdf/2604.01473)
 
+3. **Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew** <br>
+   [Link](https://arxiv.org/pdf/2511.13535)
+
 ## Accepted
 
 1. **Traceable Black-box Watermarks for Federated Learning**  
