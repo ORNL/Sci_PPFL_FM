@@ -38,6 +38,10 @@ We are building a community around trustworthy, privacy-preserving federated lea
 
 [Visit the workshop site](https://hpcfl.github.io/Cluster26/)
 
+**Training Without Sharing: Federated Learning on the World's HPC Systems for Science** — a Birds-of-a-Feather session at the 4th Annual TPC Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science, co-located with the [International Conference for High Performance Computing, Networking, Storage and Analysis (SC'26)](https://supercomputing.org). The session brings together teams training scientific models across institutional boundaries on leadership-class systems, without moving the underlying data.
+
+**Three Axes for Scientific AI on HPC: Energy Efficiency, Uncertainty, and Verifiable Trust** — a Birds-of-a-Feather session at the 4th Annual TPC Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science, co-located with the [International Conference for High Performance Computing, Networking, Storage and Analysis (SC'26)](https://supercomputing.org). The session examines what scientific AI on supercomputers must deliver beyond accuracy: the energy it costs, the uncertainty it reports, and the trust it can prove.
+
 ---
 
 # Publications
@@ -57,6 +61,9 @@ We are building a community around trustworthy, privacy-preserving federated lea
 
 2. **Energy-Efficiency Metrics for Privacy-Preserving Federated Learning with SmartNIC Server Acceleration**  
    *The Sixteenth International Workshop on Accelerators and Hybrid Emerging Systems co-located with 40th IEEE International Parallel and Distributed Processing Symposium*
+
+3. **From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science**  
+   *4th Annual TPC Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science, co-located with the [International Conference for High Performance Computing, Networking, Storage and Analysis (SC'26)](https://supercomputing.org)*
 
 ## Published
 
