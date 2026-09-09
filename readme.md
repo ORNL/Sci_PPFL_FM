@@ -59,7 +59,10 @@ We are building a community around trustworthy, privacy-preserving federated lea
 2. **SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits** <br>
    [Link](https://arxiv.org/pdf/2604.01473)
 
-3. **From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science**  
+3. **Privacy Foundations for Multi-Institutional Scientific Artificial Intelligence** <br>
+   *5th Annual Workshop on Cyber Security in High Performance Computing, co-located with the [International Conference for High Performance Computing, Networking, Storage and Analysis (SC'26)](https://supercomputing.org)*
+  
+4. **From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science**  
    *4th Annual TPC Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science, co-located with the [International Conference for High Performance Computing, Networking, Storage and Analysis (SC'26)](https://supercomputing.org)*
 
 ## Published
