@@ -48,10 +48,7 @@ We are building a community around trustworthy, privacy-preserving federated lea
 
 ## Under review
 
-1. **SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits** <br>
-   [Link](https://arxiv.org/pdf/2604.01473)
-
-2. **Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew** <br>
+1. **Accuracy is Not Enough: Poisoning Interpretability in Federated Learning via Color Skew** <br>
    [Link](https://arxiv.org/pdf/2511.13535)
 
 ## Accepted
@@ -59,8 +56,8 @@ We are building a community around trustworthy, privacy-preserving federated lea
 1. **Automated Membership Inference Attacks (MIA): Discovering MIA Signal Computations using Large Language Model (LLM) Agents** <br>
    [Link](https://arxiv.org/pdf/2603.19375)
 
-2. **Energy-Efficiency Metrics for Privacy-Preserving Federated Learning with SmartNIC Server Acceleration**  
-   *The Sixteenth International Workshop on Accelerators and Hybrid Emerging Systems co-located with 40th IEEE International Parallel and Distributed Processing Symposium*
+2. **SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits** <br>
+   [Link](https://arxiv.org/pdf/2604.01473)
 
 3. **From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science**  
    *4th Annual TPC Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science, co-located with the [International Conference for High Performance Computing, Networking, Storage and Analysis (SC'26)](https://supercomputing.org)*
@@ -87,38 +84,42 @@ We are building a community around trustworthy, privacy-preserving federated lea
    *The 6th Workshop on Machine Learning and Systems (EuroMLSys) co-located with EuroSys '26* <br>
    [Link](https://dl.acm.org/doi/abs/10.1145/3805621.3807639)
 
-6. **DP-TwoLevel: Two-Stage Gradient Subspace Learning for Differentially Private Federated Learning**  
+6. **Energy-Efficiency Metrics for Privacy-Preserving Federated Learning with SmartNIC Server Acceleration**  
+   *The Sixteenth International Workshop on Accelerators and Hybrid Emerging Systems co-located with 40th IEEE International Parallel and Distributed Processing Symposium*
+   [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11652025)
+
+8. **DP-TwoLevel: Two-Stage Gradient Subspace Learning for Differentially Private Federated Learning**  
    *SPIE Conference on Assurance and Security for AI-enabled Systems 2026* <br>
    [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14046/140460E/DP-TwoLevel--two-stage-gradient-subspace-learning-for-differentially/10.1117/12.3094636.short)
 
-7. **Entropy-weighted Multi-layer Attention for Token-level Attribution in Autoregressive Language Models**  
+9. **Entropy-weighted Multi-layer Attention for Token-level Attribution in Autoregressive Language Models**  
    *SPIE Conference on Assurance and Security for AI-enabled Systems 2026* <br>
    [Link](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/14046/140461A/Entropyweighted-multilayer-attention-for-tokenlevel-attribution-in-autoregressive-language-models/10.1117/12.3094733.short)
 
-8. **Engineering Privacy at the Edge: A Practical Guide to Differential Privacy in System Architectures**  
+10. **Engineering Privacy at the Edge: A Practical Guide to Differential Privacy in System Architectures**  
    *The 43rd IEEE International Conference on Computer Design (ICCD 2025)*  <br>
    [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11311065) | [Code](https://github.com/ORNL/PETINA)
 
-9. **Privacy-Preserving Federated Learning for Science: Challenges and Research Directions**  
+11. **Privacy-Preserving Federated Learning for Science: Challenges and Research Directions**  
    *The 13th IEEE International Conference on Big Data (IEEE BigData 2025)*  <br>
    [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10825853)
 
-10. **Balancing Trade-offs: Adaptive Differential Privacy in Interpretable Machine Learning Models**  
+12. **Balancing Trade-offs: Adaptive Differential Privacy in Interpretable Machine Learning Models**  
    *22nd Annual International Conference on Privacy, Security, and Trust (PST2025)*  <br>
    [Link](https://ieeexplore.ieee.org/abstract/document/11268818)
 
-11. **Optimal Client Sampling in Federated Learning with Client-level Heterogeneous Differential Privacy**  
+13. **Optimal Client Sampling in Federated Learning with Client-level Heterogeneous Differential Privacy**  
     *IEEE Internet of Things Journal*  <br>
     [Link](https://ieeexplore.ieee.org/abstract/document/11373392) | [Code](https://github.com/JiiahaoXU/GDPFed)
 
-12. **MIC-DP: A Scalable Correlation-Aware Differential Privacy Framework for High-Dimensional Data**  
+14. **MIC-DP: A Scalable Correlation-Aware Differential Privacy Framework for High-Dimensional Data**  
     *IEEE Transactions on Privacy Journal*  <br>
     [Link](https://ieeexplore.ieee.org/abstract/document/11218270) | [Code](https://github.com/aeris-lab/mic-dp)
 
-13. **Privacy Preservation from High-Performance Computing to Autonomous Science [Industrial and Governmental Activities]**  
+15. **Privacy Preservation from High-Performance Computing to Autonomous Science [Industrial and Governmental Activities]**  
     *IEEE Computational Intelligence Magazine*  <br>
     [Link](https://ieeexplore.ieee.org/abstract/document/11079249)
 
-14. **OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC**  
+16. **OmniFed: A Modular Framework for Configurable Federated Learning from Edge to HPC**  
     *2025 International Conference for High Performance Computing, Networking, Storage and Analysis (SC'25), ExHedtAI: The Workshop on Extreme Heterogeneity and AI Convergence in HPC* <br>
     [Link](https://dl.acm.org/doi/pdf/10.1145/3731599.3767397) | [Code](https://github.com/at-aaims/OmniFed)
