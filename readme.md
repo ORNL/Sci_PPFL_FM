@@ -54,14 +54,14 @@ We are building a community around trustworthy, privacy-preserving federated lea
 ## Accepted
 
 1. **Automated Membership Inference Attacks (MIA): Discovering MIA Signal Computations using Large Language Model (LLM) Agents** <br>
-   *[Transactions on Machine Learning Research](https://jmlr.org/tmlr/)*
+   *[Transactions on Machine Learning Research](https://jmlr.org/tmlr/)*<br>
    [Link](https://arxiv.org/pdf/2603.19375)
 
 2. **Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs** <br>
    *[The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing](https://2026.aaclnet.org)*
 
 3. **SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits** <br>
-   *[The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing](https://2026.aaclnet.org)*
+   *[The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing](https://2026.aaclnet.org)* <br>
    [Link](https://arxiv.org/pdf/2604.01473)
 
 4. **Privacy Foundations for Multi-Institutional Scientific Artificial Intelligence** <br>
