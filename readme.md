@@ -54,16 +54,21 @@ We are building a community around trustworthy, privacy-preserving federated lea
 ## Accepted
 
 1. **Automated Membership Inference Attacks (MIA): Discovering MIA Signal Computations using Large Language Model (LLM) Agents** <br>
+   *[Transactions on Machine Learning Research] (https://jmlr.org/tmlr/)*
    [Link](https://arxiv.org/pdf/2603.19375)
 
-2. **SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits** <br>
+2. **Forgetting Only What Matters: Layer-Selective Unlearning toward Robust LLMs** <br>
+   *[The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing] (https://2026.aaclnet.org)*
+
+3. **SelfGrader: Stable Jailbreak Detection for Large Language Models using Token-Level Logits** <br>
+   *[The 5th Asia-Pacific Chapter of the Association for Computational Linguistics & the 15th International Joint Conference on Natural Language Processing] (https://2026.aaclnet.org)*
    [Link](https://arxiv.org/pdf/2604.01473)
 
-3. **Privacy Foundations for Multi-Institutional Scientific Artificial Intelligence** <br>
-   *5th Annual Workshop on Cyber Security in High Performance Computing, co-located with the [International Conference for High Performance Computing, Networking, Storage and Analysis (SC'26)](https://supercomputing.org)*
+4. **Privacy Foundations for Multi-Institutional Scientific Artificial Intelligence** <br>
+   *[5th Annual Workshop on Cyber Security in High Performance Computing] (https://hpc.pnl.gov/S-HPC/2026/), co-located with the [International Conference for High Performance Computing, Networking, Storage and Analysis (SC'26)](https://supercomputing.org)*
   
-4. **From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science**  
-   *4th Annual TPC Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science, co-located with the [International Conference for High Performance Computing, Networking, Storage and Analysis (SC'26)](https://supercomputing.org)*
+5. **From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science**  
+   *[4th Annual TPC Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science] (https://tpc.dev/tpc-workshop-at-sc26/), co-located with the [International Conference for High Performance Computing, Networking, Storage and Analysis (SC'26)](https://supercomputing.org)*
 
 ## Published
 
