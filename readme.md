@@ -93,7 +93,7 @@ We are building a community around trustworthy, privacy-preserving federated lea
    [Link](https://dl.acm.org/doi/abs/10.1145/3805621.3807639)
 
 6. **Energy-Efficiency Metrics for Privacy-Preserving Federated Learning with SmartNIC Server Acceleration**  
-   *The Sixteenth International Workshop on Accelerators and Hybrid Emerging Systems co-located with 40th IEEE International Parallel and Distributed Processing Symposium*
+   *The Sixteenth International Workshop on Accelerators and Hybrid Emerging Systems co-located with 40th IEEE International Parallel and Distributed Processing Symposium* <br>
    [Link](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=11652025)
 
 8. **DP-TwoLevel: Two-Stage Gradient Subspace Learning for Differentially Private Federated Learning**  
