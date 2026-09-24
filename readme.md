@@ -70,6 +70,9 @@ We are building a community around trustworthy, privacy-preserving federated lea
 5. **From Pilots to Production: Lessons in Cross-Institutional Federated Training and AI for Science**  
    *4th Annual TPC Workshop: Building Open AI Infrastructure, Models, and Agentic Systems for Science, co-located with the International Conference for High Performance Computing, Networking, Storage and Analysis (SC'26)*
 
+6. **Majority Bit-Aware Watermarking for Large Language Models** <br>
+   *The Fortieth Annual Conference on Neural Information Processing Systems (NeurIPS 2026)*
+
 ## Published
 
 1. **IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning**  
